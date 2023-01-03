@@ -1,0 +1,7 @@
+{
+    "C_Cpp.clang_format_path": "/usr/bin/clang-format",
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "chrono": "cpp"
+    }
+}
